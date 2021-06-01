@@ -1,0 +1,13 @@
+Eman Hamid - 20101316 
+Changed Task 1 : Task2 POE 
+
+I have implemented error handling to task one as well as added it to task two.
+I have changed fields for a home loan and renting, there are now two different fields.
+I have changed the calculations for home loan, a new calculation is used to find out home loan repayment. 
+I have now also implemented inheritance.
+As well as used more than one form to show different sections in the app.
+I have added more classes in this task as well.
+I have added a generic collection instead of an array the store to expenses. 
+I have also added better comments to the program to run smoothly.
+The readme file has more well explained logic about the app. So it is easy for the user to understand.
+
